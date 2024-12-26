@@ -1,2 +1,3 @@
 # AFJ
-Automata and Formal Languages - Assignments in Automata and Turing Machine theory.
+A collection of some Automata and Turing Machine assignments.<br>
+Subject professor: **R. prof. dr Haris Šupić dipl.ing.el.**
